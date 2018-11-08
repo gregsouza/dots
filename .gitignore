@@ -1,0 +1,12 @@
+#ignore everyting
+*
+*/
+
+
+#but dont ignore
+!.gitignore
+!.bashrc
+!.compton.conf
+!.emacs.d/init.el
+
+
